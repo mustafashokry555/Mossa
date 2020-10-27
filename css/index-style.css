@@ -251,6 +251,7 @@ header button::after
   #services .card2{top: 0;}
   #services .card3{right: 0;}
   #portfolio .cornerImg{display: none;}
+  .section h2{font-size: 25px;}
 }
 
 /*loadinng & spinner*/
